@@ -1,10 +1,10 @@
 # Amin Hocine, PhD 👋
 
-**Assistant Professor (RTD-A)** · Department of Management, University of Bergamo, Italy
+**Assistant Professor (RTD-A)** · Department of Management, University of Bergamo, Italy · 
 **Founder & Director** of [Xorium Lab](https://xorium.org)
 
 I am a researcher in **Decision Sciences** and **Uncertainty Modelling**, working at
-the intersection of theory and practice. My work develops methods for **Decision
+the intersection of theory and practice. My work develops the **Xorium Theoty** for **Decision
 Making under Xorness** — a new framework for uncertainty arising from
 *indeterminacy, exclusivity, and hesitancy*.
 
