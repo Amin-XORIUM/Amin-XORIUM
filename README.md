@@ -20,7 +20,7 @@ Making under Xorness** — a new framework for uncertainty arising from
 
 ### 🧩 The Xorium Theory 
 
-I introduced the concept of **XOR Sets** to formalize and qauntify the **Xorness**
+I introduced the concept of **XOR Sets** to formalize and qauntify the **Xorness**.
 
 > *Xorness emerges from a state of indeterminacy, where multiple mutually exclusive
 > possibilities compete for our attention, yet none is strong enough to dominate.*
