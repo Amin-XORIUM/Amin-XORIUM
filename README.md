@@ -3,9 +3,9 @@
 **Assistant Professor (RTD-A)** · Department of Management, University of Bergamo, Italy · 
 **Founder & Director** of [Xorium Lab](https://xorium.org)
 
-I am a researcher in **Decision Sciences** and **Uncertainty Modelling**, working at
-the intersection of theory and practice. My work develops the **Xorium Theoty** for **Decision
-Making under Xorness** — a new framework for uncertainty arising from
+I am a researcher in **Decision Sciences** and **Uncertainty Modelling**. 
+I am working on the development of a new framwork to adress uncertainty called the **Xorium Theoty**.
+The aim of this theory is to adress **Decision Making under Xorness** — a type uncertainty arising from
 *indeterminacy, exclusivity, and hesitancy*.
 
 ---
