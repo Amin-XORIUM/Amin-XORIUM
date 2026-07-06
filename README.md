@@ -13,7 +13,7 @@ The aim of this theory is to adress **Decision Making under Xorness** — a type
 ### 🔬 Research interests
 
 - **Multiple Criteria Decision Making** 
-- **Uncertainty modelling**
+- **Uncertainty Modelling**
 - **Applications**
 
 ---
