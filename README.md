@@ -13,7 +13,7 @@ exclusivity, and hesitancy*.
 
 - **Multiple Criteria Decision Making**
 - **Uncertainty Modelling**
-- **Applications** — renewable energy, sustainability, and risk assessment
+- **Applications**
 
 ---
 
